@@ -1,0 +1,47 @@
+﻿Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing service SFAgent - Transportadora...
+Service SFAgent - Transportadora has been successfully installed.
+Creating EventLog source SFAgent - Transportadora in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing service SFAgent - Transportadora...
+Service SFAgent - Transportadora has been successfully installed.
+Creating EventLog source SFAgent - Transportadora in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Uninstalling assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent  - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Removing EventLog source SFAgent - Transportadora.
+Service SFAgent - Transportadora is being removed from the system...
+Service SFAgent - Transportadora was successfully removed from the system.
+Installing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
+Installing service SFAgent - Transportadora...
+Service SFAgent - Transportadora has been successfully installed.
+Creating EventLog source SFAgent - Transportadora in log Application...
+Committing assembly 'C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TRANSP\SFAgent\bin\x64\Debug\SFAgent.exe
+   logfile = C:\Users\sps02\Desktop\Desenvolvimento Serviços\Desenvolvimento Serviços\SFAgent - TRANSP\SFAgent\bin\x64\Debug\SFAgent.InstallLog
